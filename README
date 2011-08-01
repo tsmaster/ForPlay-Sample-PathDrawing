@@ -1,0 +1,8 @@
+		      PathDrawing ForPlay Sample
+		   A port of an XNA Sample Project
+			   By Dave LeCompte
+
+This is a simple example, showing:
+ - loading assets
+ - drawing images to the screen with rotation and scaling
+ - accepting mouse input
